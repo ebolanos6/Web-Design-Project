@@ -47,3 +47,10 @@ li a {
 li a:hover {
 	background-color:#FBB019;
 }
+
+footer {
+	height: 50px;
+	width: 100%;
+	background-color: #D3D3D3;
+	clear: both;
+}
