@@ -54,3 +54,18 @@ footer {
 	background-color: #D3D3D3;
 	clear: both;
 }
+
+#main_content {width: 100%;}
+
+#mainleft {
+	height: 500px;
+	width: 310px;
+	background-color: bisque;
+	margin: 15px;
+}
+
+#mainright {
+	float: right;
+	height: 500px;
+	
+}
