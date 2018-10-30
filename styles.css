@@ -59,13 +59,18 @@ footer {
 
 #mainleft {
 	height: 500px;
-	width: 310px;
-	background-color: bisque;
+	width: 930px;
+	background-color: black;
 	margin: 15px;
 }
 
-#mainright {
-	float: right;
-	height: 500px;
-	
+img {
+	height: 250px;
+	margin: 70px;
+	padding-left: 200px;
 }
+
+footer {
+	padding-top: 12px
+}
+
