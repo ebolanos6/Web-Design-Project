@@ -58,10 +58,14 @@ footer {
 table, th, td {
 	border: 1px solid black;
 	border-collapse: collapse;
+	text-align: right;
+	padding: 1px;
 }
 
-th, td {
-	padding: 1px;
+iframe {
+	height: 600px;
+	width: 100%;
+	border:2px solid red;
 }
 
 #main_content {width: 100%;}
