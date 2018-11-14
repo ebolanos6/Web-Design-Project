@@ -107,7 +107,7 @@ footer {
 	#mainleft{
 		width:90%;
 	}
-	#img{
+	img{
 		display:none;
 	}
 	table, th, td{
@@ -119,7 +119,7 @@ footer {
 	#wrapper{
 		width:320px;
 	}
-	#img{
+	img{
 		display:none;
 	}
 	table, th, td{
