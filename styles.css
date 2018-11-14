@@ -87,3 +87,42 @@ footer {
 	padding-top: 12px
 }
 
+@media screen and (max-width:960px) {
+	#wrapper{
+		width:100%;
+	}
+	#main_content{
+		width:100%;
+	}
+	#mainleft{
+		width:100%;
+	}
+
+}
+
+@media screen and (max-width:640px) {
+	#main_content{
+		width:90%;
+	}
+	#mainleft{
+		width:90%;
+	}
+	#img{
+		display:none;
+	}
+	table, th, td{
+		display:none;
+	}
+}
+
+@media screen and (max-width:320px) {
+	#wrapper{
+		width:320px;
+	}
+	#img{
+		display:none;
+	}
+	table, th, td{
+		display:none;
+	}
+}
