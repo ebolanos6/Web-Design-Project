@@ -1,6 +1,10 @@
 @charset "UTF-8";
 /* CSS Document */
 
+body {
+	background-image: url(images/brush.png)
+}
+
 #wrapper {
 	width: 960px;
 	height: 760px;
@@ -84,7 +88,13 @@ img {
 	float: right;
 	padding-right: 5px;
 	padding-left: 5px;
-	
+}
+
+.image1 {
+	float: left;
+	width: 910px;
+	height: 500px;
+	padding: 2px;
 }
 
 footer {
